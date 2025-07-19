@@ -1,4 +1,4 @@
-# Install libraries needed for the project
+# libraries for the project
 !pip install flwr tensorflow wfdb
 
 !pip install -U "flwr[simulation]"
